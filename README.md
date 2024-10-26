@@ -42,19 +42,5 @@ yarn dev
 pnpm dev
 ```
 
-## Learn More
-
-To learn more about project resources, take a look at the following resources:
-
-- [Livekit](https://livekit.io/)
-
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
 
 
